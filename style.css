@@ -2,6 +2,18 @@
 	font-family: sans-serif;
 }
 
+h1 {
+	font-size: 3vw;
+}
+
+h3 {
+	font-size: 1.5vw;
+}
+
+p {
+	font-size: 1.3vw;
+}
+
 a:link {
   text-decoration: none;
   color: black;
