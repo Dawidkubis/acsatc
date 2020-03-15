@@ -2,8 +2,29 @@
 	font-family: sans-serif;
 }
 
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: grey;
+}
+
+a:active {
+  text-decoration: underline;
+  color: grey;
+} 
+
 .grid {
 	display: grid;
+	grid-template-columns: 20vw auto;
 	grid-template-areas:
 	"logo text"
 	"menu text"
