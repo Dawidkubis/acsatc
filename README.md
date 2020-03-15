@@ -1,2 +1,2 @@
-# ACSATC - Abstract Convergence Schemes And Their Complexities
+# Abstract Convergence Schemes And Their Complexities
 this website is still under construction...
