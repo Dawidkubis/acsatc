@@ -1,0 +1,20 @@
+.grid {
+	display: grid;
+	grid-template-areas:
+	"logo text"
+	"menu text";
+	grid-gap: 10px;
+	padding: 10px;
+}
+
+.logo {
+	grid-area: logo;
+}
+
+.menu {
+	grid-area: menu;
+}
+
+.text {
+	grid-area: text;
+}
