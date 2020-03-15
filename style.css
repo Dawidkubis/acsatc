@@ -39,8 +39,7 @@ a:active {
 	grid-template-columns: 20vw auto;
 	grid-template-areas:
 	"logo text"
-	"menu text"
-	"footer footer";
+	"menu text";
 	grid-gap: 30px;
 	padding: 30px;
 }
@@ -57,7 +56,3 @@ a:active {
 	grid-area: text;
 }
 
-.footer {
-	grid-area: footer;
-	text-align: center;
-}
