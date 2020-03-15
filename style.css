@@ -24,7 +24,6 @@ a:active {
 
 .grid {
 	display: grid;
-	grid-template-rows: 10vw 30vw 10vw;
 	grid-template-columns: 20vw auto;
 	grid-template-areas:
 	"logo text"
