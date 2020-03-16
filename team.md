@@ -1,2 +1,2 @@
-# Something about the team
+# Project team
 

@@ -1,1 +1,1 @@
-# Something about external visitors
+# External visitors

@@ -1,1 +1,1 @@
-# Something about publications
+# Publications
