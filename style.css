@@ -6,6 +6,10 @@ h1 {
 	font-size: 3vw;
 }
 
+h2 {
+	font-size: 2vw;
+}
+
 h3 {
 	font-size: 1.5vw;
 }
@@ -26,8 +30,11 @@ pre {
 
 blockquote {
 	padding: 0 1em;
-	color: #6a737d;
-	border-left: .25em solid #dfe2e5;
+	border-left: .25em solid lightgrey;
+}
+
+li {
+	font-size: 1.3vw;
 }
 
 a:link {
