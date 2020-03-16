@@ -3,24 +3,24 @@
 }
 
 h1 {
-	font-size: 2.5vw;
+	font-size: 2.5vmax;
 }
 
 h2 {
-	font-size: 2vw;
+	font-size: 2vmax;
 }
 
 h3 {
-	font-size: 1.5vw;
+	font-size: 1.5vmax;
 }
 
 p {
-	font-size: 1.3vw;
+	font-size: 1.3vmax;
 }
 
 code {
 	font-family: monospace;
-	font-size: 1.3vw;
+	font-size: 1.3vmax;
 	background-color: lightgrey;
 }
 
@@ -37,7 +37,7 @@ blockquote {
 }
 
 li {
-	font-size: 1.3vw;
+	font-size: 1.3vmax;
 }
 
 a:link {
@@ -62,8 +62,8 @@ a:active {
 
 .grid {
 	display: grid;
-	grid-template-rows: 30vh auto;
-	grid-template-columns: 20vw auto;
+	grid-template-rows: 30vmin auto;
+	grid-template-columns: 20vmax auto;
 	grid-template-areas:
 	"logo text"
 	"menu text";
