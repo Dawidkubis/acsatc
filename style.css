@@ -26,12 +26,12 @@ a:visited {
 
 a:hover {
   text-decoration: none;
-  color: darkblue;
+  color: #2e3192;
 }
 
 a:active {
   text-decoration: none;
-  color: darkblue;
+  color: #2e3192;
 } 
 
 .grid {
