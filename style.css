@@ -14,6 +14,10 @@ h3 {
 	font-size: 1.5vmax;
 }
 
+h6 {
+	font-size: 0.5vmax;
+}
+
 p {
 	font-size: 1.3vmax;
 }
@@ -62,7 +66,7 @@ a:active {
 
 .grid {
 	display: grid;
-	grid-template-rows: 30vmin 56vmin;
+	grid-template-rows: 40vmin auto;
 	grid-template-columns: 20vmax auto;
 	grid-template-areas:
 	"logo text"
