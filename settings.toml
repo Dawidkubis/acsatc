@@ -1,1 +1,21 @@
 index = "README.md"
+
+[[get]]
+uri="team"
+file="team.md"
+
+[[get]]
+uri="externals"
+file="externals.md"
+
+[[get]]
+uri="events"
+file="events.md"
+
+[[get]]
+uri="publications"
+file="publications.md"
+
+[[get]]
+uri="preprints"
+file="preprints.md"

@@ -1,11 +1,4 @@
 
-Project number: 20-31529X
-
-Project acronym: ACSATC
-
-Starting date: 01.01.2020
-
-End date: 31.12.2024
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in tortor iaculis, viverra magna eget, porta justo. Integer molestie fermentum augue sit amet tristique. Donec nec congue neque, in aliquet turpis. Nullam dignissim tincidunt dolor sed fringilla. Curabitur sollicitudin efficitur lacus id fringilla. Ut quis purus libero. Sed pretium tellus et diam porttitor, id blandit nisi facilisis. Pellentesque auctor viverra semper. Morbi rutrum sodales quam. Phasellus fermentum sit amet purus in volutpat. Curabitur ullamcorper finibus tellus, non dictum est. Nullam aliquet justo dui, sit amet faucibus ipsum faucibus vitae. Quisque viverra, nisi vitae tincidunt interdum, elit tellus tincidunt felis, a dictum nulla sapien in felis. Suspendisse eu est ligula. Nullam nec turpis ultricies, malesuada orci ac, ultrices augue. Aliquam nec justo nec quam dignissim euismod a eu eros.
 
