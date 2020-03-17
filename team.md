@@ -1,4 +1,4 @@
-# Project team
+# Abstract Convergence Schemes And Their Complexities
 
 ### Wiesław Kubiś
 *principal investigator*
