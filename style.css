@@ -69,7 +69,7 @@ a:active {
 	grid-template-rows: 40vmin auto;
 	grid-template-columns: 20vmax auto;
 	grid-template-areas:
-	"logo text"
+	"logo ugly"
 	"menu text";
 	grid-gap: 30px;
 	padding: 30px;
@@ -85,5 +85,9 @@ a:active {
 
 .text {
 	grid-area: text;
+}
+
+.ugly {
+	grid-area: ugly;
 }
 
