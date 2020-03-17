@@ -62,7 +62,7 @@ a:active {
 
 .grid {
 	display: grid;
-	grid-template-rows: 30vmin 80vmin;
+	grid-template-rows: 30vmin 60vmin;
 	grid-template-columns: 20vmax auto;
 	grid-template-areas:
 	"logo text"
