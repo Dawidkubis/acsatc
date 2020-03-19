@@ -26,6 +26,7 @@ code {
 	font-family: monospace;
 	font-size: 1vmax;
 	background-color: lightgrey;
+	padding: 2px;
 }
 
 pre {
