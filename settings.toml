@@ -2,7 +2,7 @@ index = "README.md"
 
 [[get]]
 uri="team"
-file="team.md"
+file="team2.md"
 
 [[get]]
 uri="externals"
