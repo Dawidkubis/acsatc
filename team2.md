@@ -1,4 +1,8 @@
 <style>
+.h3 {
+	margin-top: 0;
+}
+
 .team {
 	display: grid;
 	grid-template-rows: 30vmin 30vmin 30vmin 30vmin 30vmin;
