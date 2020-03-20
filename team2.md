@@ -11,6 +11,7 @@
 	"ziemowit ziemowit-foto";
 	grid-gap: 10px;
 	grid-column-gap: 10vmax;
+	grid-row-gap: 5vmin;
 	padding: 10px;
 }
 
