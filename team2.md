@@ -1,5 +1,5 @@
 <style>
-h3 {
+.team h3 {
 	margin-top: 0;
 }
 
