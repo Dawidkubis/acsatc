@@ -89,6 +89,8 @@ research interest: set theory and its applications to other parts of mathematics
 </a>
 </div>
 <div class="ziemowit-foto">
-<img src="kostana-foto.jpg" height="100%">
+<a href="kostana.jpg">
+<img src="kostana-foto.png" height="100%">
+</a>
 </div>
 </div>
