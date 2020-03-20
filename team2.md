@@ -73,7 +73,7 @@ research interest: ...?
 
 email: `kostana@math.cas.cz`
 
-research interest: ...?
+research interest: set theory and its applications to other parts of mathematics, mainly model theory and topology
 </div>
 
 <div class="wieslaw-foto">
@@ -89,5 +89,6 @@ research interest: ...?
 </a>
 </div>
 <div class="ziemowit-foto">
+<img src="kostana-foto.jpg" height="100%">
 </div>
 </div>
