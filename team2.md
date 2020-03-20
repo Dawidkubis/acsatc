@@ -55,7 +55,7 @@ research interest: ...?
 
 email: `doucha@math.cas.cz`
 
-research interest: ...?
+research interest: topological and geometric group theory, descriptive set theory, functional analysis
 </div>
 <div class="muler">
 
@@ -82,6 +82,9 @@ research interest: set theory and its applications to other parts of mathematics
 <div class="tristan-foto">
 </div>
 <div class="doucha-foto">
+<a href="doucha.jpg">
+<img src="doucha-foto.png" height="100%">
+</a>
 </div>
 <div class="muler-foto">
 <a href="muler.jpg">
