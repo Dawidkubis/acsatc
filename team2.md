@@ -2,7 +2,7 @@
 .team {
 	display: grid;
 	grid-template-rows: 30vmin 30vmin 30vmin 30vmin 30vmin;
-	grid-template-columns: 20vmax 20vmax;
+	grid-template-columns: 30vmax 20vmax;
 	grid-template-areas:
 	"wieslaw wieslaw-foto"
 	"tristan tristan-foto"
@@ -10,7 +10,7 @@
 	"muler muler-foto"
 	"ziemowit ziemowit-foto";
 	grid-gap: 10px;
-	grid-column-gap: 20vmax;
+	grid-column-gap: 10vmax;
 	padding: 10px;
 }
 
