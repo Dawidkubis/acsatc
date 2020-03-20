@@ -41,7 +41,7 @@
 
 email: `kubis@math.cas.cz`
 
-research interests: Applications of logic and set theory; universal homogeneous objects in the context of category theory.
+research interests: applications of logic and set theory; universal homogeneous objects in the context of category theory.
 </div>
 <div class="tristan">
 
