@@ -46,7 +46,7 @@ research interest: ...?
 
 email: `bice@math.cas.cz`
 
-research interest: topology and lattice theory: Stone duality and frame/locale theory; operator algebras and Étale groupoids: groupoid C\*-algebras, Steinberg algebras and Weyl groupoids; semigroup theory: inverse semigroups, \*-semigroups and ordered groupoids; logic: set theory and model theory
+research interest: 
 </div>
 <div class="doucha">
 
@@ -80,7 +80,7 @@ research interest: set theory and its applications to other parts of mathematics
 <img src="wieslaw-foto.jpg" height="100%">
 </div>
 <div class="tristan-foto">
-<img src="bice-foto.jpg" height="100%">
+<img src="bice-foto.png" height="100%">
 </div>
 <div class="doucha-foto">
 <a href="doucha.jpg">
