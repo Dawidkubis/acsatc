@@ -3,8 +3,12 @@
 	margin-top: 0;
 }
 
+.team div {
+	height: 30vmin;
+	width: 30vmax;
+}
+
 .team {
-	display: grid;
 	grid-template-rows: 30vmin 30vmin 30vmin 30vmin 30vmin;
 	grid-template-columns: 30vmax 20vmax;
 	grid-template-areas:
@@ -19,17 +23,6 @@
 	padding: 10px;
 }
 
-.wieslaw { grid-area: wieslaw; }
-.tristan { grid-area: tristan; }
-.doucha { grid-area: doucha; }
-.muler { grid-area: muler; }
-.ziemowit { grid-area: ziemowit; }
-
-.wieslaw-foto { grid-area: wieslaw-foto; }
-.tristan-foto { grid-area: tristan-foto; }
-.doucha-foto { grid-area: doucha-foto; }
-.muler-foto { grid-area: muler-foto; }
-.ziemowit-foto { grid-area: ziemowit-foto; }
 </style>
 
 <div class="team">
