@@ -45,12 +45,11 @@ li {
 	font-size: 13px;
 }
 
-a:link {
-	text-decoration: none;
-	color: black;
+a {
+	color: blue;
 }
 
-a:visited {
+a:link {
 	text-decoration: none;
 	color: black;
 }
