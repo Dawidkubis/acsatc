@@ -30,9 +30,7 @@ from <!-- l. 451 --><math display='inline' xmlns='http://www.w3.org/1998/Math/Ma
 <!-- l. 451 --><math display='inline' xmlns='http://www.w3.org/1998/Math/MathML'><mi>B</mi></math> by
 <!-- l. 451 --><math display='inline' xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mover class='stackrel'><mrow><mo class='MathClass-rel'>→</mo></mrow><mrow><mrow><mi>f</mi></mrow></mrow></mover><mi>B</mi></math>, an
 infinite process (evolution) can be represented as an infinite diagram of the form
-<!-- tex4ht:inline --></p><!-- l. 452 --><math display='block' xmlns='http://www.w3.org/1998/Math/MathML'>
-                              <object height='28.24263 ' data='introtext-1.svg' type='image/svg+xml' width='216.6024 '><p>SVG-Viewer needed.</p></object>
-</math>
+<img src="fotos/diagram.png" width="400px" class="center">
 <!-- l. 454 --><p class='nopar'> where <!-- l. 455 --><math display='inline' xmlns='http://www.w3.org/1998/Math/MathML'><msub><mrow><mi>A</mi></mrow><mrow><mn>0</mn></mrow></msub> <mo class='MathClass-rel'>=</mo> <msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub></math>.
 Saying that such a process <tspan font-family='cmti' font-size='10'>absorbs </tspan>all possible transitions means that for every
 <!-- l. 455 --><math display='inline' xmlns='http://www.w3.org/1998/Math/MathML'><mi>n</mi></math>, given a transition

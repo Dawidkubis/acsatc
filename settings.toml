@@ -1,4 +1,5 @@
 index = "README.md"
+skel = "skeleton.html"
 
 [[get]]
 uri="team"
