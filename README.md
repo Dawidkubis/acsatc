@@ -8,7 +8,7 @@
 <meta content='introtext.tex' name='src' /> 
  <script async='async' id='MathJax-script' type='text/javascript' src='https://cdn.jsdelivr.net/npm/mathjax@3/es5/mml-chtml.js'></script>  
 </head><body>
-  <pre>Our goal is to study the complexity of convergence schemes and their limits. Sequences
+  <pre style="text-align: center;">Our goal is to study the complexity of convergence schemes and their limits. Sequences
 (viewed as evolutions) with the absorption property lead to so-called <i>generic objects</i>. One
 of our objectives is to extend this study in several directions. We are also going to analyze
 convergence schemes in which there are no evolutions with the absorption property, where
