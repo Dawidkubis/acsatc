@@ -3,7 +3,7 @@
 
 <div class="info">
 
-### Vadim Alekseev
+### [Vadim Alekseev](http://v-alekseev.org/)
 
 *Technische Universität Dresden, Institut für Geometrie*
 
@@ -14,6 +14,6 @@ visit to Prague team: 18.2. - 28.2. 2020
 
 invited lecture: [Sofic approximations, coarse geometry and operator algebras](https://calendar.math.cas.cz/content/sofic-approximations-coarse-geometry-and-operator-algebras)
 
-<https://arxiv.org/a/alekseev_v_1.html>, <http://v-alekseev.org/>
+<https://arxiv.org/a/alekseev_v_1.html>
 
 </div>
