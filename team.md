@@ -2,6 +2,7 @@
 
 </style>
 
+<div class="team">
 <div>
 
 ### Wiesław Kubiś
@@ -11,6 +12,17 @@
 email: `kubis@math.cas.cz`
 
 research interests: applications of logic and set theory; universal homogeneous objects in the context of category theory.
+</div>
+
+<div>
+
+### Adam Bartoš
+
+*postdoc*
+
+email: `bartos@math.cas.cz`
+
+research interests: ???
 </div>
 
 <div> 
@@ -26,6 +38,26 @@ topology and lattice theory: Stone duality and frame/locale theory;
 operator algebras and Étale groupoids: groupoid C\*-algebras, Steinberg algebras and Weyl groupoids;
 semigroup theory: inverse semigroups, \*-semigroups and ordered groupoids;
 logic: set theory and model theory
+</div>
+
+<div>
+
+### Ivan Di Liberti
+*postdoc*
+
+email: `diliberti@math.cas.cz`
+
+research interests: logic, cathegory theory, dualities of syntax-semantics type, foundations of mathematics
+</div>
+
+<div>
+
+### Arnaud Duvieusart
+*postdoc*
+
+email: `duvieusart@math.cas.cz`
+
+research interests: ???
 </div>
 
 <div> 
@@ -56,4 +88,5 @@ research interests: operator theory
 email: `kostana@math.cas.cz`
 
 research interests: set theory and its applications to other parts of mathematics, mainly model theory and topology
+</div>
 </div>
