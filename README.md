@@ -8,11 +8,11 @@
 <meta content='introtext.tex' name='src' /> 
  <script async='async' id='MathJax-script' type='text/javascript' src='https://cdn.jsdelivr.net/npm/mathjax@3/es5/mml-chtml.js'></script>  
 </head><body>
-  <div id='colorbox1' class='colorbox'>Our goal is to study the complexity of convergence schemes and their limits. Sequences
-(viewed as evolutions) with the absorption property lead to so-called <span class='cmti-10x-x-109'>generic objects</span>. One
+  <pre>Our goal is to study the complexity of convergence schemes and their limits. Sequences
+(viewed as evolutions) with the absorption property lead to so-called <i>generic objects</i>. One
 of our objectives is to extend this study in several directions. We are also going to analyze
 convergence schemes in which there are no evolutions with the absorption property, where
-the set-theoretic forcing plays a pivotal role.                                                              </div>
+the set-theoretic forcing plays a pivotal role.</pre>
   <h3 class='sectionHead'><a id='x1-1000'></a>Introduction</h3>
 <!-- l. 450 --><p class='noindent'>Let us imagine that a certain evolution system is given, starting from some initial state
 <!-- l. 450 --><math display='inline' xmlns='http://www.w3.org/1998/Math/MathML'><msub><mrow><mi>E</mi></mrow><mrow><mn>0</mn></mrow></msub></math> and having the property that

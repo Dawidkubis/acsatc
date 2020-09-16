@@ -2,7 +2,7 @@
 
 </style>
 
-<div class="wieslaw">
+<div>
 
 ### Wiesław Kubiś
 
@@ -13,7 +13,7 @@ email: `kubis@math.cas.cz`
 research interests: applications of logic and set theory; universal homogeneous objects in the context of category theory.
 </div>
 
-<div class="tristan">
+<div> 
 
 ### Tristan Bice
 
@@ -28,7 +28,7 @@ semigroup theory: inverse semigroups, \*-semigroups and ordered groupoids;
 logic: set theory and model theory
 </div>
 
-<div class="doucha">
+<div> 
 
 ### Michal Doucha
 *researcher*
@@ -38,7 +38,7 @@ email: `doucha@math.cas.cz`
 research interests: topological and geometric group theory, descriptive set theory, functional analysis
 </div>
 
-<div class="muler">
+<div> 
 
 ### Vladimir Müller
 *researcher*
@@ -48,7 +48,7 @@ email: `muller@math.cas.cz`
 research interests: operator theory
 </div>
 
-<div class="ziemowit">
+<div> 
 
 ### Ziemowit Kostana
 *PhD student - University of Warsaw doctoral programme*
