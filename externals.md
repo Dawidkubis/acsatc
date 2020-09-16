@@ -5,7 +5,7 @@
 
 ### Vadim Alekseev
 
-Affiliation: Technische Universität Dresden, Institut für Geometrie
+Technische Universität Dresden, Institut für Geometrie
 Research interests: Operator algebras, L2-invariants, Geometric and
 ergodic group theory, Noncommutative geometry
 
