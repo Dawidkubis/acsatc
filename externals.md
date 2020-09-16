@@ -3,11 +3,10 @@
 
 <div class="info">
 
-### Wiesław Kubiś
+### Vadim Alekseev
 
-*principal investigator*
+Affiliation: Technische Universität Dresden, Institut für Geometrie
+Research interests: Operator algebras, L2-invariants, Geometric and
+ergodic group theory, Noncommutative geometry
 
-email: `kubis@math.cas.cz`
-
-research interests: applications of logic and set theory; universal homogeneous objects in the context of category theory.
 </div>
