@@ -22,7 +22,7 @@ research interests: applications of logic and set theory; universal homogeneous 
 
 email: `bartos@math.cas.cz`
 
-research interests: ???
+research interests: Fraïssé theory, general topology, category theory 
 </div>
 
 <div> 
