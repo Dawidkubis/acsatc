@@ -11,7 +11,7 @@
 
 email: `kubis@math.cas.cz`
 
-research interests: applications of logic and set theory; universal homogeneous objects in the context of category theory.
+research interest: applications of logic and set theory; universal homogeneous objects in the context of category theory
 </div>
 
 <div>
@@ -22,7 +22,7 @@ research interests: applications of logic and set theory; universal homogeneous 
 
 email: `bartos@math.cas.cz`
 
-research interests: Fraïssé theory, general topology, category theory 
+research interest: Fraïssé theory, general topology, category theory 
 </div>
 
 <div> 
@@ -33,7 +33,7 @@ research interests: Fraïssé theory, general topology, category theory
 
 email: `bice@math.cas.cz`
 
-research interests: 
+research interest: 
 topology and lattice theory: Stone duality and frame/locale theory;
 operator algebras and Étale groupoids: groupoid C\*-algebras, Steinberg algebras and Weyl groupoids;
 semigroup theory: inverse semigroups, \*-semigroups and ordered groupoids;
@@ -47,7 +47,7 @@ logic: set theory and model theory
 
 email: `diliberti@math.cas.cz`
 
-research interests: logic, cathegory theory, dualities of syntax-semantics type, foundations of mathematics
+research interest: logic, cathegory theory, dualities of syntax-semantics type, foundations of mathematics
 </div>
 
 <div>
@@ -57,7 +57,7 @@ research interests: logic, cathegory theory, dualities of syntax-semantics type,
 
 email: `duvieusart@math.cas.cz`
 
-research interests: ???
+research interest: ???
 </div>
 
 <div> 
@@ -67,7 +67,7 @@ research interests: ???
 
 email: `doucha@math.cas.cz`
 
-research interests: topological and geometric group theory, descriptive set theory, functional analysis
+research interest: topological and geometric group theory, descriptive set theory, functional analysis
 </div>
 
 <div> 
@@ -77,7 +77,7 @@ research interests: topological and geometric group theory, descriptive set theo
 
 email: `muller@math.cas.cz`
 
-research interests: operator theory
+research interest: operator theory
 </div>
 
 <div> 
@@ -87,6 +87,6 @@ research interests: operator theory
 
 email: `kostana@math.cas.cz`
 
-research interests: set theory and its applications to other parts of mathematics, mainly model theory and topology
+research interest: set theory and its applications to other parts of mathematics, mainly model theory and topology
 </div>
 </div>
