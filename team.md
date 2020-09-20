@@ -49,7 +49,7 @@ logic: set theory and model theory
 ### Ivan Di Liberti
 *postdoc*
 
-![Ivan](fotos/ivan-foto.png)
+![Ivan](fotos/Ivan-foto.png)
 
 email: `diliberti@math.cas.cz`
 
@@ -61,7 +61,7 @@ research interest: logic, category theory, dualities of syntax-semantics type, f
 ### Arnaud Duvieusart
 *postdoc*
 
-![Arnaud](fotos/arnaud-foto.png)
+![Arnaud](fotos/Arnaud-foto.png)
 
 email: `duvieusart@math.cas.cz`
 
@@ -87,7 +87,7 @@ research interest: topological and geometric group theory, descriptive set theor
 
 *researcher*
 
-![Mirna](fotos/mirna-foto.png)
+![Mirna](fotos/Mirna-foto.png)
 
 email: `logiqueconsult@gmail.com`
 
@@ -100,7 +100,7 @@ Logic in all its aspects : mathematical, philosophical and in computer sciences
 ### Vladimir Müller
 *researcher*
 
-![Muller](fotos/muller-foto.png)
+![Muller](fotos/muler-foto.png)
 
 email: `muller@math.cas.cz`
 
