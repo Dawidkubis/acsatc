@@ -45,7 +45,7 @@ logic: set theory and model theory
 ### Ivan Di Liberti
 *postdoc*
 
-[Ivan](fotos/ivan-foto.png)
+![Ivan](fotos/ivan-foto.png)
 
 email: `diliberti@math.cas.cz`
 
@@ -57,7 +57,7 @@ research interest: logic, category theory, dualities of syntax-semantics type, f
 ### Arnaud Duvieusart
 *postdoc*
 
-[Arnaud](fotos/arnaud-foto.png)
+![Arnaud](fotos/arnaud-foto.png)
 
 email: `duvieusart@math.cas.cz`
 
@@ -69,7 +69,7 @@ research interest: ???
 ### Michal Doucha
 *researcher*
 
-[doucha](fotos/doucha-foto.png)
+![doucha](fotos/doucha-foto.png)
 
 email: `doucha@math.cas.cz`
 
