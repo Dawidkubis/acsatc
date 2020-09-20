@@ -9,6 +9,8 @@
 
 *principal investigator*
 
+![Wieslaw](fotos/wieslaw-foto.png)
+
 email: `kubis@math.cas.cz`
 
 research interest: applications of logic and set theory; universal homogeneous objects in the context of category theory
@@ -30,6 +32,8 @@ research interest: Fraïssé theory, general topology, category theory
 ### Tristan Bice
 
 *researcher*
+
+![Tristan](fotos/bice-foto.png)
 
 email: `bice@math.cas.cz`
 
@@ -83,6 +87,8 @@ research interest: topological and geometric group theory, descriptive set theor
 
 *researcher*
 
+![Mirna](fotos/mirna-foto.png)
+
 email: `logiqueconsult@gmail.com`
 
 research interest: 
@@ -94,6 +100,8 @@ Logic in all its aspects : mathematical, philosophical and in computer sciences
 ### Vladimir Müller
 *researcher*
 
+![Muller](fotos/muller-foto.png)
+
 email: `muller@math.cas.cz`
 
 research interest: operator theory
@@ -103,6 +111,8 @@ research interest: operator theory
 
 ### Ziemowit Kostana
 *PhD student - University of Warsaw doctoral programme*
+
+![Kostana](fotos/kostana-foto.png)
 
 email: `kostana@math.cas.cz`
 
