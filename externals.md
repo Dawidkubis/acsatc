@@ -16,7 +16,7 @@ visit to Prague team: 18.2. - 28.2. 2020
 
 invited lecture: [Sofic approximations, coarse geometry and operator algebras](https://calendar.math.cas.cz/content/sofic-approximations-coarse-geometry-and-operator-algebras)
 
-<https://arxiv.org/a/alekseev_v_1.html>
+[ArXiv Profile](https://arxiv.org/a/alekseev_v_1.html)
 </div>
 
 <div>
@@ -32,7 +32,7 @@ visit to Prague team: 14.9. - 18.9. 2020
 
 invited lecture: [On logics that make a bridge from the Discrete to the Continuous](https://calendar.math.cas.cz/content/logics-make-bridge-discrete-continuous)
 
-<https://arxiv.org/search/math?searchtype=author&query=Džamonja,+M>
+[ArXiv Profile](https://arxiv.org/search/math?searchtype=author&query=Džamonja,+M)
 </div>
 
 </div>
