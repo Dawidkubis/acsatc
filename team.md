@@ -70,6 +70,19 @@ email: `doucha@math.cas.cz`
 research interest: topological and geometric group theory, descriptive set theory, functional analysis
 </div>
 
+
+<div> 
+
+### Mirna Dzamonja
+
+*researcher*
+
+email: `logiqueconsult@gmail.com`
+
+research interest: 
+Logic in all its aspects : mathematical, philosophical and in computer sciences
+</div>
+
 <div> 
 
 ### Vladimir Müller

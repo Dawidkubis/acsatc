@@ -1,7 +1,7 @@
 # Preprints
 
- <https://arxiv.org/abs/2003.12741>
+Catalin Badea, Vladimir Müller, Laurian Suciu, High order isometric liftings and dilations. <https://arxiv.org/abs/2003.12741>
 
- <https://arxiv.org/pdf/2002.09873.pdf>
+Tristan Bice. Grätzer-Hofmann-Lawson-Jung-Sünderhauf Duality. <https://arxiv.org/abs/2002.09873>
 
- <https://arxiv.org/abs/2001.05804>
+Tanja Eisner, Vladimir Müller. Power bounded operators and the mean ergodic theorem for subsequences. <https://arxiv.org/abs/2001.05804>
