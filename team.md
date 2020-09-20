@@ -45,7 +45,7 @@ logic: set theory and model theory
 ### Ivan Di Liberti
 *postdoc*
 
-![Ivan](fotos/ivan.png)
+![Ivan](/fotos/ivan-foto.png)
 email: `diliberti@math.cas.cz`
 
 research interest: logic, category theory, dualities of syntax-semantics type, foundations of mathematics
