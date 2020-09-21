@@ -51,7 +51,7 @@ logic: set theory and model theory
 
 ![Ivan](fotos/Ivan-foto.png)
 
-email: `diliberti@math.cas.cz`
+email: `diliberti.math@gmail.com`
 
 research interest: categorical logic and foundations
 </div>
