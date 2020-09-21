@@ -5,7 +5,7 @@
 <div class="team">
 <div>
 
-### Wiesław Kubiś
+### [Wiesław Kubiś](https://users.math.cas.cz/~kubis/)
 
 *principal investigator*
 
@@ -29,7 +29,7 @@ research interest: Fraïssé theory, general topology, category theory
 
 <div> 
 
-### Tristan Bice
+### [Tristan Bice](https://sites.google.com/site/tristanbice/)
 
 *researcher*
 
@@ -46,14 +46,14 @@ logic: set theory and model theory
 
 <div>
 
-### Ivan Di Liberti
+### [Ivan Di Liberti](https://diliberti.github.io)
 *postdoc*
 
 ![Ivan](fotos/Ivan-foto.png)
 
 email: `diliberti@math.cas.cz`
 
-research interest: logic, category theory, dualities of syntax-semantics type, foundations of mathematics
+research interest: categorical logic and foundations
 </div>
 
 <div>
@@ -83,7 +83,7 @@ research interest: topological and geometric group theory, descriptive set theor
 
 <div> 
 
-### Mirna Dzamonja
+### [Mirna Dzamonja](https://www.logiqueconsult.eu)
 
 *researcher*
 
@@ -97,7 +97,7 @@ Logic in all its aspects : mathematical, philosophical and in computer sciences
 
 <div> 
 
-### Vladimir Müller
+### [Vladimir Müller](http://www.math.cas.cz/homepage/main_page.php?id_membre=21)
 *researcher*
 
 ![Muller](fotos/muler-foto.png)
