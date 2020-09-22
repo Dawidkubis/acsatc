@@ -27,7 +27,7 @@ Marek Cúth, **Michal Doucha**, Ondřej Kurka. [Complexity of distances: Reducti
 
 **Vladimir Muller**. [Invariant half-spaces for rank-one perturbations](https://arxiv.org/abs/2006.10507).
 
-Fernando Albiac, Jose L. Ansorena, Marek Cuth, **Michal Doucha**. [Structure of the Lipschitz free p-spaces \\( \mathcal{F}_p(\mathbb{Z}^d \\) and \\( \mathcal{F}_p(\mathbb{R}^d \\) for \\( 0 < p \leq 1 \\)](https://arxiv.org/abs/2006.08018).
+Fernando Albiac, Jose L. Ansorena, Marek Cuth, **Michal Doucha**. [Structure of the Lipschitz free p-spaces \\( \mathcal{F}_p(\mathbb{Z}^d) \\) and \\( \mathcal{F}_p(\mathbb{R}^d) \\) for \\( 0 < p \leq 1 \\)](https://arxiv.org/abs/2006.08018).
 
 **Ziemowit Kostana**. [Cohen-like first order structures](https://arxiv.org/abs/2009.03552).
 
