@@ -1,7 +1,11 @@
 <style>
 
-.team div {
+.team img {
 	float: right;
+}
+
+.team div {
+	height: 200px;
 }
 
 </style>
