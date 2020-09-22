@@ -1,15 +1,18 @@
 <style>
 
+img.team {
+	float: right;
+}
+
 </style>
 
 <div class="team">
 <div>
 
+![Wieslaw](fotos/wieslaw-foto.png)
 ### [Wiesław Kubiś](https://users.math.cas.cz/~kubis/)
 
 *principal investigator*
-
-![Wieslaw](fotos/wieslaw-foto.png)
 
 email: `kubis@math.cas.cz`
 
@@ -29,11 +32,10 @@ research interest: Fraïssé theory, general topology, category theory
 
 <div> 
 
+![Tristan](fotos/bice-foto.png)
 ### [Tristan Bice](https://sites.google.com/site/tristanbice/)
 
 *researcher*
-
-![Tristan](fotos/bice-foto.png)
 
 email: `bice@math.cas.cz`
 
@@ -46,10 +48,9 @@ logic: set theory and model theory
 
 <div>
 
+![Ivan](fotos/Ivan-foto.png)
 ### [Ivan Di Liberti](https://diliberti.github.io)
 *postdoc*
-
-![Ivan](fotos/Ivan-foto.png)
 
 email: `diliberti.math@gmail.com`
 
@@ -58,10 +59,9 @@ research interest: categorical logic and foundations
 
 <div>
 
+![Arnaud](fotos/Arnaud-foto.png)
 ### Arnaud Duvieusart
 *postdoc*
-
-![Arnaud](fotos/Arnaud-foto.png)
 
 email: `duvieusart@math.cas.cz`
 
@@ -70,10 +70,9 @@ research interest: ???
 
 <div> 
 
+![doucha](fotos/doucha-foto.png)
 ### Michal Doucha
 *researcher*
-
-![doucha](fotos/doucha-foto.png)
 
 email: `doucha@math.cas.cz`
 
@@ -83,11 +82,10 @@ research interest: topological and geometric group theory, descriptive set theor
 
 <div> 
 
+![Mirna](fotos/Mirna-foto.png)
 ### [Mirna Dzamonja](https://www.logiqueconsult.eu)
 
 *researcher*
-
-![Mirna](fotos/Mirna-foto.png)
 
 email: `logiqueconsult@gmail.com`
 
@@ -97,10 +95,9 @@ Logic in all its aspects : mathematical, philosophical and in computer sciences
 
 <div> 
 
+![Muller](fotos/muler-foto.png)
 ### [Vladimir Müller](http://www.math.cas.cz/homepage/main_page.php?id_membre=21)
 *researcher*
-
-![Muller](fotos/muler-foto.png)
 
 email: `muller@math.cas.cz`
 
@@ -109,10 +106,9 @@ research interest: operator theory
 
 <div> 
 
+![Kostana](fotos/kostana-foto.png)
 ### Ziemowit Kostana
 *PhD student - University of Warsaw doctoral programme*
-
-![Kostana](fotos/kostana-foto.png)
 
 email: `kostana@math.cas.cz`
 
