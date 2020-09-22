@@ -9,9 +9,7 @@ Marek Cúth, **Michal Doucha**, Ondřej Kurka. [Complexity of distances: Theory 
 
 **Tristan Bice**. [An Algebraic Approach to the Weyl Groupoid](https://arxiv.org/abs/1911.08812).
 
-**Tristan Bice**, Charles Starling. [Locally Hausdorff Tight Groupoids Generalised](https://arxiv.org/abs/1912.03774)
-
-A. Bonilla, **V. Müller**.[Kreiss bounded and uniformly Kreiss bounded operators](https://arxiv.org/abs/1912.07931).
+**Tristan Bice**, Charles Starling. [Locally Hausdorff Tight Groupoids Generalised](https://arxiv.org/abs/1912.03774).
 
 **Tristan Bice**, Lisa Orloff Clark. [Reconstructing Etale Groupoids from Semigroups](https://arxiv.org/abs/2002.02108).
 
