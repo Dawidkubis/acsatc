@@ -1,6 +1,6 @@
 <style>
 
-img.team {
+.team div {
 	float: right;
 }
 
