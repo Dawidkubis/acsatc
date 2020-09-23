@@ -24,8 +24,8 @@ research interest: applications of logic and set theory; universal homogeneous o
 </div>
 
 <div>
-![Adam](fotos/adam-foto.png)
 
+![Adam](fotos/adam-foto.png)
 ### Adam Bartoš
 
 *postdoc*
