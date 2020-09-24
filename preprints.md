@@ -29,6 +29,9 @@ Fernando Albiac, Jose L. Ansorena, Marek Cuth, **Michal Doucha**. [Structure of 
 
 **Ziemowit Kostana**. [Cohen-like first order structures](https://arxiv.org/abs/2009.03552).
 
+**Ivan Di Liberti**, Jiří Rosický. [Enriched Locally Generated Categories](https://arxiv.org/abs/2009.10980).
+
+
 
 
 
