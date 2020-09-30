@@ -31,6 +31,10 @@ Fernando Albiac, Jose L. Ansorena, Marek Cuth, **Michal Doucha**. [Structure of 
 
 **Ivan Di Liberti**, Jiří Rosický. [Enriched Locally Generated Categories](https://arxiv.org/abs/2009.10980).
 
+**Ivan Di Liberti**. [General facts on the Scott Adjunction](https://arxiv.org/abs/2009.14023).
+
+**Ivan Di Liberti**. [Towards Higher Topology](https://arxiv.org/abs/2009.14145).
+
 
 
 
