@@ -35,6 +35,8 @@ Fernando Albiac, Jose L. Ansorena, Marek Cuth, **Michal Doucha**. [Structure of 
 
 **Ivan Di Liberti**. [Towards Higher Topology](https://arxiv.org/abs/2009.14145).
 
+**Ivan Di Liberti**. [Formal Model Theory & Higher Topology](https://arxiv.org/abs/2010.00319).
+
 
 
 
