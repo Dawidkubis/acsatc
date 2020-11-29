@@ -43,6 +43,8 @@ Fernando Albiac, Jose L. Ansorena, Marek Cuth, **Michal Doucha**. [Structure of 
 
 **Mirna Džamonja**. [Are all natural numbers the same](https://arxiv.org/abs/2011.11425).
 
+**Mirna Džamonja**. [Multiverse and the Society](https://hal.archives-ouvertes.fr/hal-03019882).
+
 
 
 
