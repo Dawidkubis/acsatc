@@ -39,9 +39,9 @@ Fernando Albiac, Jose L. Ansorena, Marek Cuth, **Michal Doucha**. [Structure of 
 
 **Tristan Bice**. [Representing Semigroups on Etale Groupoid Bundles](https://arxiv.org/abs/2010.04961).
 
-**Mirna Džamonja**, Ivan Tomašić. [Graphons arising from graphs definable over finite fields ](https://arxiv.org/abs/1707.06296
-)
+**Mirna Džamonja**, Ivan Tomašić. [Graphons arising from graphs definable over finite fields](https://arxiv.org/abs/1707.06296).
 
+**Mirna Džamonja**. [Are all natural numbers the same](https://arxiv.org/abs/2011.11425).
 
 
 
