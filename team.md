@@ -88,7 +88,7 @@ research interest: topological and geometric group theory, descriptive set theor
 <div> 
 
 ![Mirna](fotos/Mirna-foto.png)
-### [Mirna Dzamonja](https://www.logiqueconsult.eu)
+### [Mirna Džamonja](https://www.logiqueconsult.eu)
 
 *researcher*
 

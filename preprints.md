@@ -7,7 +7,7 @@ Marek Cúth, **Michal Doucha**, Ondřej Kurka. [Complexity of distances: Theory 
 
 **Tristan Bice**. [Distance Domains: Continuity](https://arxiv.org/abs/1804.11164).
 
-**Tristan Bice**. [An Algebraic Approach to the Weyl Groupoid](https://arxiv.org/abs/1911.08812).
+
 
 **Tristan Bice**, Charles Starling. [Locally Hausdorff Tight Groupoids Generalised](https://arxiv.org/abs/1912.03774).
 
@@ -36,6 +36,11 @@ Fernando Albiac, Jose L. Ansorena, Marek Cuth, **Michal Doucha**. [Structure of 
 **Ivan Di Liberti**. [Towards Higher Topology](https://arxiv.org/abs/2009.14145).
 
 **Ivan Di Liberti**. [Formal Model Theory & Higher Topology](https://arxiv.org/abs/2010.00319).
+
+**Tristan Bice**. [Representing Semigroups on Etale Groupoid Bundles](https://arxiv.org/abs/2010.04961).
+
+**Mirna Džamonja**, Ivan Tomašić. [Graphons arising from graphs definable over finite fields ](https://arxiv.org/abs/1707.06296
+)
 
 
 
