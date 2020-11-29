@@ -1,5 +1,7 @@
 # Publications
 
+**Ivan Di Liberti**, Fosco Loregian, Pawel Sobocinski, Chad Nester. [Functorial semantics for Partial Theories](https://arxiv.org/abs/2011.06644). *Proc. ACM Program. Lang., Vol. 5, No. POPL, Article 57 (2020)*
+
 
 Tanja Eisner, **Vladimir Müller**. [Power bounded operators and the mean ergodic theorem for subsequences](https://www.sciencedirect.com/science/article/pii/S0022247X20306855). *Journal of Mathematical Analysis and Applications Volume 493, Issue 1, 124523.*
  
