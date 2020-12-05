@@ -1,13 +1,11 @@
 # Preprints
 
 
-
+**Mirna Džamonja**, Ivan Tomašić. [Graphons arising from graphs definable over finite fields](https://arxiv.org/abs/1707.06296).
 
 Marek Cúth, **Michal Doucha**, Ondřej Kurka. [Complexity of distances: Theory of generalized analytic equivalence relations](https://arxiv.org/abs/1804.11164).
 
 **Tristan Bice**. [Distance Domains: Continuity](https://arxiv.org/abs/1804.11164).
-
-
 
 **Tristan Bice**, Charles Starling. [Locally Hausdorff Tight Groupoids Generalised](https://arxiv.org/abs/1912.03774).
 
@@ -37,18 +35,17 @@ Fernando Albiac, Jose L. Ansorena, Marek Cuth, **Michal Doucha**. [Structure of 
 
 **Ivan Di Liberti**. [Formal Model Theory & Higher Topology](https://arxiv.org/abs/2010.00319).
 
-**Tristan Bice**. [Representing Semigroups on Etale Groupoid Bundles](https://arxiv.org/abs/2010.04961).
+**Vladimir Müller**, Yuri Tomilov. [On interplay between operators, bases, and matrices](https://arxiv.org/abs/2010.09126)
 
-**Mirna Džamonja**, Ivan Tomašić. [Graphons arising from graphs definable over finite fields](https://arxiv.org/abs/1707.06296).
+**Vladimir Müller**, Yuri Tomilov. [In search of convexity: diagonals and numerical ranges](https://arxiv.org/abs/2010.09129)
+
+**Tristan Bice**. [Representing Semigroups on Etale Groupoid Bundles](https://arxiv.org/abs/2010.04961).
 
 **Mirna Džamonja**. [Are all natural numbers the same](https://arxiv.org/abs/2011.11425).
 
 **Mirna Džamonja**. [Multiverse and the Society](https://hal.archives-ouvertes.fr/hal-03019882).
 
-
-
-
-
+**Mirna Džamonja**, Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. [Formalising Ordinal Partition Relations Using Isabelle/HOL](https://arxiv.org/abs/2011.13218)
 
 
 
