@@ -47,10 +47,7 @@ Fernando Albiac, Jose L. Ansorena, Marek Cuth, **Michal Doucha**. [Structure of 
 
 **Mirna Džamonja**, Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. [Formalising Ordinal Partition Relations Using Isabelle/HOL](https://arxiv.org/abs/2011.13218)
 
-
-
-
-
+**Tristan Bice**. [Representing Rings on Ringoid Bundles](https://arxiv.org/abs/2012.03006).
 
 
 
