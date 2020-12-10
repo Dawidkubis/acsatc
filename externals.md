@@ -21,7 +21,7 @@ invited lecture: [Sofic approximations, coarse geometry and operator algebras](h
 
 <div>
 
-### [Mirna Dzamonja](https://www.logiqueconsult.eu)
+### [Mirna Džamonja](https://www.logiqueconsult.eu)
 
 *CNRS- Université Panthéon-Sorbonne, Institut d’Histoire et de la Philosophie des Sciences et des Techniques IHPST, France*
 
