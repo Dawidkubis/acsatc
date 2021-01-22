@@ -41,6 +41,8 @@ Fernando Albiac, Jose L. Ansorena, Marek Cuth, **Michal Doucha**. [Structure of 
 
 **Tristan Bice**. [Representing Semigroups on Etale Groupoid Bundles](https://arxiv.org/abs/2010.04961).
 
+Fernando Albiac, Jose L. Ansorena, **Marek Cuth**, Michal Doucha. [Lipschitz algebras and Lipschitz-free spaces over unbounded metric spaces](https://arxiv.org/abs/2011.12993)
+
 **Mirna Džamonja**. [Are all natural numbers the same](https://arxiv.org/abs/2011.11425).
 
 **Mirna Džamonja**. [Multiverse and the Society](https://hal.archives-ouvertes.fr/hal-03019882).
