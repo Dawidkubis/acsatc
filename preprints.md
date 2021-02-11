@@ -52,6 +52,9 @@ Fernando Albiac, Jose L. Ansorena, **Marek Cuth**, Michal Doucha. [Lipschitz alg
 **Tristan Bice**. [Representing Rings on Ringoid Bundles](https://arxiv.org/abs/2012.03006).
 
 
+**Ziemowit Kostana**. [What would the rational Urysohn space and the random graph look like if they were uncountable?](https://arxiv.org/abs/2102.05590)
+
+
 
 
 
