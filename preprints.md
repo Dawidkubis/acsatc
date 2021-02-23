@@ -5,6 +5,8 @@
 
 Marek Cúth, **Michal Doucha**, Ondřej Kurka. [Complexity of distances: Theory of generalized analytic equivalence relations](https://arxiv.org/abs/1804.11164).
 
+**Ivan Di Liberti**, Fosco Loregian. [Accessibility and presentability in 2-categories](https://arxiv.org/abs/1804.08710).
+
 **Tristan Bice**. [Distance Domains: Continuity](https://arxiv.org/abs/1804.11164).
 
 **Tristan Bice**, Charles Starling. [Locally Hausdorff Tight Groupoids Generalised](https://arxiv.org/abs/1912.03774).
