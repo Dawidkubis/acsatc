@@ -56,6 +56,6 @@ Fernando Albiac, Jose L. Ansorena, **Marek Cuth**, Michal Doucha. [Lipschitz alg
 
 **Ziemowit Kostana**. [What would the rational Urysohn space and the random graph look like if they were uncountable?](https://arxiv.org/abs/2102.05590)
 
-**Ziemowit Kostana**, Saharon Shelah. [The Slicing Axioms](https://arxiv.org/abs/2102.11666)
+**Ziemowit Kostana**, Saharon Shelah. [The Slicing Axioms](https://arxiv.org/abs/2102.11666).
 
 
