@@ -62,7 +62,7 @@ email: `diliberti.math@gmail.com`
 research interest: categorical logic and foundations
 </div>
 
-<div>
+<!-- <div>
 
 ![Arnaud](fotos/Arnaud-foto.png)
 ### Arnaud Duvieusart
@@ -71,7 +71,7 @@ research interest: categorical logic and foundations
 email: `duvieusart@math.cas.cz`
 
 research interest: ???
-</div>
+</div> -->
 
 <div> 
 
