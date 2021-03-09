@@ -120,3 +120,7 @@ email: `kostana@math.cas.cz`
 research interest: set theory and its applications to other parts of mathematics, mainly model theory and topology
 </div>
 </div>
+
+## Former members
+<div class="team">
+</div>
