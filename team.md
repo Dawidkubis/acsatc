@@ -63,16 +63,7 @@ email: `diliberti.math@gmail.com`
 research interest: categorical logic and foundations
 </div>
 
-<!-- <div>
 
-![Arnaud](fotos/Arnaud-foto.png)
-### Arnaud Duvieusart
-*postdoc*
-
-email: `duvieusart@math.cas.cz`
-
-research interest: ???
-</div> -->
 
 <div> 
 
@@ -123,5 +114,16 @@ research interest: set theory and its applications to other parts of mathematics
 </div>
 
 ## Former members
+
+ <div>
+
+![Arnaud](fotos/Arnaud-foto.png)
+### Arnaud Duvieusart
+*postdoc*
+
+email: `duvieusart@math.cas.cz`
+From Jul 2020 to Dec 2020
+research interest: categorical algebra
+</div> 
 <div class="team">
 </div>
