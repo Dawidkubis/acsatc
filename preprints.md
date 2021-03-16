@@ -58,4 +58,6 @@ Fernando Albiac, Jose L. Ansorena, **Marek Cuth**, Michal Doucha. [Lipschitz alg
 
 **Ziemowit Kostana**, Saharon Shelah. [The Slicing Axioms](https://arxiv.org/abs/2102.11666).
 
+**Ivan Di Liberti**, Julia Ramos González. [Exponentiable Grothendieck categories in flat Algebraic Geometry](https://arxiv.org/abs/2103.07876).
+
 
