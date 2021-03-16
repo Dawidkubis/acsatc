@@ -119,10 +119,10 @@ research interest: set theory and its applications to other parts of mathematics
 
 ![Arnaud](fotos/Arnaud-foto.png)
 ### Arnaud Duvieusart
-*postdoc*
+*postdoc  Jul 2020 - Dec 2020*
 
 email: `duvieusart@math.cas.cz`
-From Jul 2020 to Dec 2020
+
 research interest: categorical algebra
 </div> 
 <div class="team">
