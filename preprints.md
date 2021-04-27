@@ -60,4 +60,9 @@ Fernando Albiac, Jose L. Ansorena, **Marek Cuth**, Michal Doucha. [Lipschitz alg
 
 **Ivan Di Liberti**, Julia Ramos González. [Exponentiable Grothendieck categories in flat Algebraic Geometry](https://arxiv.org/abs/2103.07876).
 
+**Tristan Bice**. [Dauns-Hofmann-Kumjian-Renault Duality for Fell Bundles and Structured \\C^*\\-Algebras](https://arxiv.org/abs/2104.12415).
+
+
+
+
 
